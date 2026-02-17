@@ -1,0 +1,63 @@
+ html {
+     background-color: #121214;
+ }
+
+ body {
+     font-family: Arial;
+     color: white;
+     padding-left: 30px;
+ }
+
+ .banner {
+     padding-top: 20px;
+     display: flex;
+     justify-content: center;
+ }
+
+ .banner-image {
+     object-fit: cover;
+     border-radius: 30px;
+
+ }
+
+ .event {
+     border: 1px solid white;
+     border-radius: 15px;
+     padding: 20px;
+     max-width: 600px;
+ }
+
+ .hyperlink {
+     display: block;
+     width: fit-content;
+     margin: 20px auto;
+     color: white;
+     text-decoration: none;
+ }
+
+ .titleSection {
+     display: flex;
+     justify-content: center;
+ }
+
+ th,
+ td {
+     border: 1px solid #ffffff;
+     padding: 5px;
+ }
+
+ .menu {
+     display: flex;
+ }
+
+.content {
+     display: flex;
+ }
+
+ .title {
+    text-align: center;
+ }
+
+ .table-banner {
+    text-align: center;
+ }
